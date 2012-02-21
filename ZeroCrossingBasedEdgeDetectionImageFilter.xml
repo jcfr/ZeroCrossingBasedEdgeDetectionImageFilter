@@ -6,7 +6,7 @@
   <version>0.1.0.$Revision: 2085 $(alpha)</version>
   <documentation-url/>
   <license/>
-  <contributor>Elliot Uvero</contributor>
+  <contributor>Elliot Uvero (SPL)</contributor>
   <acknowledgements><![CDATA[This command module was derived from Insight/Examples/Filtering/MedianImageFilter (copyright) Insight Software Consortium]]></acknowledgements>
   <parameters>
     <label>Zero Crossing Based Edge Detection Filter Parameters</label>
